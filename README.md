@@ -3,7 +3,7 @@
 ### Introduction
 This repository includes Python code in a two-part study:
 
-1. Examine if the values for complainant gender were missing due to officer ethnicity or officer gender, or if their absence was attributed to random chance through statistical means.
+1. Using statistical means, examine if the values for complainant gender were missing due to officer ethnicity or officer gender, or if their absence was attributed to random chance.
 2. Build a machine learning model to predict officer ethnicity and find possible patterns in the data that make officer ethnicity particularly predictable.
 
 ### Files
